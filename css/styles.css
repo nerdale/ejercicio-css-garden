@@ -1,0 +1,115 @@
+#css-zen-garden{
+	background-color: #E7E6E6;
+}
+
+.intro h1 {
+	font-family: Verdana;
+	color: #FFFFFF;
+	background-color: #000000;
+	font-size: 50px;
+	text-align: center;
+
+
+}
+
+.intro h2 {
+	font-family: Verdana;
+	color: #180687;
+	border: 1px dotted #000000;
+}
+
+.summary p {
+	color: #140C45;
+	font-family: Arial, serif;
+	font-size: 15px;
+	font-style: italic;
+	background-color: #E4BB74;
+	text-decoration: line-through;
+
+}
+
+h3 {
+	font-family: Verdana;
+	color: #9969D7;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.preamble p {
+	color: #E86A6A;
+	font: small-caps 100% serif;
+	font-size: 16px;
+
+}
+
+.explanation p {
+	color: #A03A6D;
+	font-family: Arial, serif;
+	font-size: 18px;
+	background-color: #ECE5A4;
+	line-height: 200%;
+
+}
+
+.participation p{
+	color: #E86A6A;
+	font-family: Arial, serif;
+	font-size: 16px;
+	line-height: 150%;
+}
+
+.benefits p {
+	color: #A03A6D;
+	font-family: Arial, serif;
+	font-size: 18px;
+}
+
+.requirements p{
+	color: #E86A6A;
+	font-family: Arial, serif;
+	font-size: 16px;	
+}
+
+.design-selection ul li {
+	list-style-type: lower-alpha;
+
+}
+
+.design-selection ul li a {
+	text-decoration: none;
+	background-color: #AFCD6A;
+
+}
+
+.design-archives ul li {
+	list-style-type: lower-roman;
+}
+
+
+.zen-resources ul li {
+	list-style-type: square;
+}
+
+.zen-resources ul li a {
+	text-decoration: none;
+	background-color: #AFCD6A;	
+}
+
+.design-selection h3{
+	color: #390172;
+	text-align: left;
+}
+
+.design-archives h3{
+	color: #720155;
+	text-align: left;
+}
+
+.zen-resources h3{
+	color:#790528;
+	text-align: left;
+}
+
+.wrapper {
+	background-color: #D3D3D3;
+}
